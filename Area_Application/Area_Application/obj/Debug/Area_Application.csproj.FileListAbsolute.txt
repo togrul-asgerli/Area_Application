@@ -1,0 +1,14 @@
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\bin\Debug\Area_Application.exe.config
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\bin\Debug\Area_Application.exe
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\bin\Debug\Area_Application.pdb
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.Properties.Resources.resources
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.csproj.GenerateResource.cache
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.exe
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.pdb
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.Area_Main.resources
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.Triangle.resources
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.Rectangle.resources
+C:\Users\Togrul\source\repos\Area_Application\Area_Application\obj\Debug\Area_Application.Circle.resources
